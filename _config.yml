@@ -1,0 +1,28 @@
+name: texas
+favicon: null
+layout_spectrum: 0.06870637624524534
+typography_spectrum: 0.5943156606517732
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5106851558666676
+  lightness: 0.744686538586393
+  saturation: 0.6250273855403066
+  rhythmicContrast: 0.2299825418740511
+purpose: []
